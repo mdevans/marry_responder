@@ -5,7 +5,8 @@
 1. Setup Python environment > 3.10 with pipenv (pip install --user pipenv)
 2. Clone repo
 3. From install directory (/marry_responder) pipenv install
-4. To run all classifiers on phrases in test_phrases.csv: python main.py
+4. Setup enviroment variable: OPENAI_API_KEY with your OpenAI API key
+5. To run all classifiers on phrases in test_phrases.csv: python main.py
 
 ## Classifiers
 
