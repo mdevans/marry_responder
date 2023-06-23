@@ -13,10 +13,10 @@ def main():
     classifier_types = [
         "nltk_stemmer",
         "nltk_lemma",
-        "nltk_pos_tag",
-        "hf_zero_shot",
-        "openai_davinci",
-        "openai_gpt35",
+        # "nltk_pos_tag",
+        # "hf_zero_shot",
+        # "openai_davinci",
+        # "openai_gpt35",
     ]
 
     # Load test phrases and their labels from csv file:

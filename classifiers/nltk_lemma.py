@@ -1,3 +1,4 @@
+# Purpose: Classify a phrase as asking or sharing intent using NLTK lemmatization
 import nltk
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
