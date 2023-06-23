@@ -1,3 +1,5 @@
+# Foondamate Coding Challenge (https://careers.foondamate.com/machine-learning-engineer-remote/foondamate-ml-engineer-coding-challenge-001)
+
 ## Nltk_stemmer Classifier Performance:
 
               precision    recall  f1-score   support
@@ -7,8 +9,8 @@
      unclear       0.90      0.95      0.93        20
 
     accuracy                           0.97       103
-    macro avg 0.96 0.97 0.96 103
-    weighted avg 0.97 0.97 0.97 103
+    macro avg      0.96      0.97      0.96       103
+    weighted avg   0.97      0.97      0.97       103
 
 Incorrectly classified phrases:
 Phrase: 'The email you provided is recorded', Predicted: 'shared', Actual: 'unclear'
@@ -24,8 +26,8 @@ Phrase: 'Can my classmates email you too', Predicted: 'unclear', Actual: 'ask'
      unclear       0.90      0.95      0.93        20
 
     accuracy                           0.97       103
-    macro avg 0.96 0.97 0.96 103
-    weighted avg 0.97 0.97 0.97 103
+    macro avg      0.96      0.97      0.96       103
+    weighted avg   0.97      0.97      0.97       103
 
 Incorrectly classified phrases:
 Phrase: 'The email you provided is recorded', Predicted: 'shared', Actual: 'unclear'
@@ -41,8 +43,8 @@ Phrase: 'Can my classmates email you too', Predicted: 'unclear', Actual: 'ask'
      unclear       0.19      1.00      0.33        20
 
     accuracy                           0.19       103
-    macro avg 0.73 0.33 0.11 103
-    weighted avg 0.84 0.19 0.06 103
+    macro avg      0.73      0.33      0.11       103
+    weighted avg   0.84      0.19      0.06       103
 
 Incorrectly classified phrases:
 <TOO MANY>
@@ -56,8 +58,8 @@ Incorrectly classified phrases:
      unclear       0.87      1.00      0.93        20
 
     accuracy                           0.93       103
-    macro avg 0.93 0.94 0.93 103
-    weighted avg 0.94 0.93 0.93 103
+    macro avg      0.93      0.94      0.93       103
+    weighted avg   0.94      0.93      0.93       103
 
 Incorrectly classified phrases:
 Phrase: 'Might I share your email', Predicted: 'shared', Actual: 'ask'
@@ -77,8 +79,8 @@ Phrase: 'Can my classmates email you too', Predicted: 'shared', Actual: 'ask'
      unclear       0.47      1.00      0.63        20
 
     accuracy                           0.74       103
-    macro avg 0.79 0.81 0.73 103
-    weighted avg 0.86 0.74 0.73 103
+    macro avg      0.79       0.81     0.73       103
+    weighted avg   0.86       0.74     0.73       103
 
 Incorrectly classified phrases:
 Phrase: 'I've sent your email address to my friend', Predicted: 'unclear', Actual: 'shared'
@@ -118,8 +120,8 @@ Phrase: 'Ive shared your email with others hope its okay', Predicted: 'ask', Act
      unclear       0.80      0.80      0.80        20
 
     accuracy                           0.91       103
-    macro avg 0.90 0.90 0.90 103
-    weighted avg 0.91 0.91 0.91 103
+    macro avg      0.90      0.90      0.90       103
+    weighted avg   0.91      0.91      0.91       103
 
 Incorrectly classified phrases:
 Phrase: 'I have sent this email to my friends', Predicted: 'unclear', Actual: 'shared'
