@@ -18,7 +18,7 @@
 
 ## RESULTS
 
-## 1. Nltk_Stemmer Classifier Performance:
+## 1. NLTK Stemmer Classifier Performance:
 
 ```
               precision    recall  f1-score   support
@@ -38,7 +38,7 @@
  'Your email is now with my roommate hope its okay', Predicted: 'unclear', Actual: 'shared'  
  'Can my classmates email you too', Predicted: 'unclear', Actual: 'ask'
 
-## 2. Nltk_Lemma Classifier Performance:
+## 2. NLTK Lemmatizer Classifier Performance:
 
 ```
               precision    recall  f1-score   support
@@ -58,7 +58,7 @@
  'Your email is now with my roommate hope its okay', Predicted: 'unclear', Actual: 'shared'  
  'Can my classmates email you too', Predicted: 'unclear', Actual: 'ask'
 
-## 3. Nltk_pos_tag Classifier Performance:
+## 3. NTLTK POS Tagger Classifier Performance:
 
 ```
               precision    recall  f1-score   support
@@ -75,7 +75,7 @@
 Incorrectly classified phrases:
 <TOO MANY>
 
-## 4. Hf_zero_shot Classifier Performance:
+## 4. HuggingFace Zero Shot Classifier (Multi-Genre Natural Language Inference (MNLI) with BART) Performance:
 
 ```
               precision    recall  f1-score   support
@@ -99,7 +99,7 @@ Incorrectly classified phrases:
  'Your email has been added to the mailing list', Predicted: 'unclear', Actual: 'shared'  
  'Can my classmates email you too', Predicted: 'shared', Actual: 'ask'
 
-## 5. Openai_davinci Classifier Performance:
+## 5. OpenAI Text-davinci=003 Classifier Performance:
 
 ```
               precision    recall  f1-score   support
@@ -143,7 +143,7 @@ Incorrectly classified phrases:
  'Shared your email with my seminar group', Predicted: 'unclear', Actual: 'shared'  
  'Ive shared your email with others hope its okay', Predicted: 'ask', Actual: 'shared'
 
-## 6. OpenAI GPT35 Classifier Performance:
+## 6. OpenAI GPT3.6-TURBO Classifier Performance:
 
 ```
               precision    recall  f1-score   support
