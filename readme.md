@@ -74,7 +74,7 @@
 ```
 
 Incorrectly classified phrases:
-<TOO MANY>
+TOO MANY :(
 
 ## 4. HuggingFace Zero Shot Classifier (Multi-Genre Natural Language Inference (MNLI) with BART) Performance:
 
